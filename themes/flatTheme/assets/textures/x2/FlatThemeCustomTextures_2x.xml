@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:5a34b562ed1556dd12ff8c1f39383ab5:dfe2e12f853d51f625ead2add4dccd7d:fb4a484d664530c38149dced7d8f5f59$ -->
+<TextureAtlas imagePath="FlatThemeCustomTextures_2x.png">
+    <SubTexture name="icons-button-add" x="2" y="1030" width="44" height="44" frameX="-20" frameY="-20" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-cal-day" x="920" y="1122" width="44" height="44" frameX="-20" frameY="-20" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-cal-month" x="874" y="1122" width="44" height="44" frameX="-20" frameY="-20" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-cal-week" x="828" y="1122" width="44" height="44" frameX="-20" frameY="-20" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-camera" x="416" y="1106" width="44" height="36" frameX="-20" frameY="-24" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-cancel" x="744" y="1106" width="44" height="44" frameX="-20" frameY="-20" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-cart" x="370" y="1086" width="44" height="40" frameX="-20" frameY="-22" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-check" x="232" y="1030" width="44" height="42" frameX="-20" frameY="-21" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-cloud" x="692" y="1136" width="44" height="32" frameX="-20" frameY="-26" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-copy" x="642" y="1208" width="36" height="44" frameX="-24" frameY="-20" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-credits" x="278" y="1072" width="44" height="40" frameX="-20" frameY="-22" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-detail" x="660" y="1082" width="44" height="44" frameX="-20" frameY="-20" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-doc" x="688" y="1170" width="36" height="44" frameX="-24" frameY="-20" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-download" x="554" y="1162" width="44" height="30" frameX="-20" frameY="-27" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-favorite-2" x="186" y="1030" width="44" height="42" frameX="-20" frameY="-21" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-favorite" x="140" y="1030" width="44" height="42" frameX="-20" frameY="-21" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-filter-1" x="784" y="1152" width="42" height="44" frameX="-21" frameY="-20" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-filter-2" x="614" y="1082" width="44" height="44" frameX="-20" frameY="-20" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-filter-edit" x="600" y="1190" width="40" height="44" frameX="-22" frameY="-20" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-flag" x="866" y="1198" width="34" height="44" frameX="-25" frameY="-20" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-gear" x="568" y="1082" width="44" height="44" frameX="-20" frameY="-20" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-headphone" x="94" y="1030" width="44" height="42" frameX="-20" frameY="-21" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-headset" x="522" y="1082" width="44" height="44" frameX="-20" frameY="-20" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-keyboard" x="600" y="1162" width="44" height="26" frameX="-20" frameY="-29" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-layouts" x="324" y="1050" width="44" height="40" frameX="-20" frameY="-22" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-list" x="738" y="1152" width="44" height="30" frameX="-20" frameY="-27" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-logout" x="790" y="1106" width="36" height="44" frameX="-24" frameY="-20" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-messages" x="646" y="1128" width="44" height="32" frameX="-20" frameY="-26" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-mic" x="992" y="1136" width="30" height="44" frameX="-27" frameY="-20" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-new" x="676" y="1036" width="44" height="44" frameX="-20" frameY="-20" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-next" x="600" y="1128" width="44" height="32" frameX="-20" frameY="-26" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-photo-1" x="462" y="1156" width="44" height="34" frameX="-20" frameY="-25" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-pin" x="630" y="1036" width="44" height="44" frameX="-20" frameY="-20" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-pop-out" x="584" y="1036" width="44" height="44" frameX="-20" frameY="-20" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-preview" x="904" y="1192" width="34" height="44" frameX="-25" frameY="-20" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-previous" x="554" y="1128" width="44" height="32" frameX="-20" frameY="-26" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-proceed" x="48" y="1030" width="44" height="42" frameX="-20" frameY="-21" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-reminder" x="476" y="1074" width="44" height="44" frameX="-20" frameY="-20" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-remove" x="538" y="1036" width="44" height="44" frameX="-20" frameY="-20" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-save" x="430" y="1060" width="44" height="44" frameX="-20" frameY="-20" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-scale-to-fit" x="508" y="1128" width="44" height="34" frameX="-20" frameY="-25" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-search" x="646" y="1162" width="40" height="44" frameX="-22" frameY="-20" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-share-1" x="384" y="1040" width="44" height="44" frameX="-20" frameY="-20" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-sync-1" x="384" y="994" width="44" height="44" frameX="-20" frameY="-20" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-tile-list" x="278" y="1030" width="44" height="40" frameX="-20" frameY="-22" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-tools" x="384" y="948" width="44" height="44" frameX="-20" frameY="-20" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-undo" x="416" y="1144" width="44" height="34" frameX="-20" frameY="-25" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-vol-high" x="462" y="1120" width="44" height="34" frameX="-20" frameY="-25" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-vol-low" x="370" y="1128" width="44" height="34" frameX="-20" frameY="-25" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-vol-mute" x="324" y="1092" width="44" height="36" frameX="-20" frameY="-24" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-button-vol-slider" x="508" y="1164" width="44" height="28" frameX="-20" frameY="-28" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="icons-circlebutton-add" x="744" y="1020" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-cal-day" x="658" y="950" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-cal-month" x="572" y="950" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-cal-week" x="486" y="950" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-camera" x="346" y="862" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-cancel" x="260" y="862" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-cart" x="174" y="862" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-check" x="88" y="862" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-cloud" x="2" y="862" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-copy" x="916" y="954" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-credits" x="830" y="954" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-detail" x="744" y="934" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-doc" x="658" y="864" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-download" x="572" y="864" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-favorite-2" x="486" y="864" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-favorite" x="346" y="776" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-filter-1" x="260" y="776" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-filter-2" x="174" y="776" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-filter-edit" x="88" y="776" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-flag" x="2" y="776" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-gear" x="918" y="868" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-headphone" x="832" y="868" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-headset" x="746" y="848" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-keyboard" x="660" y="778" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-layouts" x="574" y="778" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-list" x="488" y="778" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-logout" x="936" y="782" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-messages" x="850" y="782" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-mic" x="682" y="692" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-new" x="596" y="692" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-next" x="510" y="692" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-photo-1" x="346" y="690" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-pin" x="260" y="690" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-pop-out" x="174" y="690" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-preview" x="88" y="690" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-previous" x="2" y="690" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-proceed" x="938" y="696" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-reminder" x="852" y="696" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-remove" x="684" y="606" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-save" x="598" y="606" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-scale-to-fit" x="512" y="606" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-search" x="938" y="610" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-share-1" x="852" y="610" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-sync-1" x="684" y="520" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-tile-list" x="598" y="520" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-tools" x="512" y="520" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-undo" x="872" y="346" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-vol-high" x="872" y="260" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-vol-low" x="872" y="174" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-vol-mute" x="872" y="88" width="84" height="84"/>
+    <SubTexture name="icons-circlebutton-vol-slider" x="872" y="2" width="84" height="84"/>
+    <SubTexture name="icons-control-button-back" x="994" y="1104" width="26" height="30" frameX="-15" frameY="-13" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="icons-control-button-forward" x="994" y="1072" width="26" height="30" frameX="-15" frameY="-13" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="icons-control-clock" x="902" y="1238" width="30" height="30" frameX="-13" frameY="-13" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="icons-control-dropdown-arrow-down" x="834" y="1204" width="30" height="26" frameX="-13" frameY="-15" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="icons-control-dropdown-arrow-up" x="802" y="1204" width="30" height="26" frameX="-13" frameY="-15" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="icons-control-info" x="940" y="1208" width="30" height="30" frameX="-13" frameY="-13" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="icons-control-stopwatch" x="994" y="1040" width="26" height="30" frameX="-15" frameY="-13" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="icons-control-tooltip" x="966" y="1122" width="24" height="30" frameX="-16" frameY="-13" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="icons-equip-ball" x="680" y="1216" width="36" height="36" frameX="-14" frameY="-14" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="icons-equip-band-2" x="726" y="1184" width="36" height="36" frameX="-14" frameY="-14" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="icons-equip-band" x="718" y="1222" width="36" height="30" frameX="-14" frameY="-17" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="icons-equip-dumbell-2" x="942" y="1190" width="36" height="16" frameX="-14" frameY="-24" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="icons-equip-dumbell" x="866" y="1168" width="36" height="28" frameX="-14" frameY="-18" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="icons-equip-hrm-2" x="764" y="1198" width="36" height="30" frameX="-14" frameY="-17" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="icons-equip-hrm" x="828" y="1168" width="36" height="34" frameX="-14" frameY="-15" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="icons-equip-matt-2" x="980" y="1182" width="36" height="18" frameX="-14" frameY="-23" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="icons-equip-matt" x="942" y="1168" width="36" height="20" frameX="-14" frameY="-22" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="icons-equip-shoes" x="904" y="1168" width="36" height="22" frameX="-14" frameY="-21" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="icons-equip-stopwatch" x="980" y="1202" width="32" height="36" frameX="-16" frameY="-14" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="icons-equip-water" x="488" y="690" width="20" height="36" frameX="-22" frameY="-14" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="icons-header-devices" x="698" y="176" width="172" height="172"/>
+    <SubTexture name="icons-header-friends" x="524" y="176" width="172" height="172"/>
+    <SubTexture name="icons-header-heart" x="350" y="176" width="172" height="172"/>
+    <SubTexture name="icons-header-help" x="176" y="176" width="172" height="172"/>
+    <SubTexture name="icons-header-rewards" x="2" y="176" width="172" height="172"/>
+    <SubTexture name="icons-header-run" x="698" y="2" width="172" height="172"/>
+    <SubTexture name="icons-header-scale" x="524" y="2" width="172" height="172"/>
+    <SubTexture name="icons-header-search" x="350" y="2" width="172" height="172"/>
+    <SubTexture name="icons-header-settings" x="176" y="2" width="172" height="172"/>
+    <SubTexture name="icons-header-tools" x="2" y="2" width="172" height="172"/>
+    <SubTexture name="icons-menu-devices" x="248" y="948" width="80" height="80"/>
+    <SubTexture name="icons-menu-friends" x="166" y="948" width="80" height="80"/>
+    <SubTexture name="icons-menu-heart" x="84" y="948" width="80" height="80"/>
+    <SubTexture name="icons-menu-help" x="2" y="948" width="80" height="80"/>
+    <SubTexture name="icons-menu-rewards" x="912" y="1040" width="80" height="80"/>
+    <SubTexture name="icons-menu-run" x="830" y="1040" width="80" height="80"/>
+    <SubTexture name="icons-menu-scale" x="768" y="766" width="80" height="80"/>
+    <SubTexture name="icons-menu-search" x="770" y="684" width="80" height="80"/>
+    <SubTexture name="icons-menu-settings" x="770" y="602" width="80" height="80"/>
+    <SubTexture name="icons-menu-tools" x="770" y="520" width="80" height="80"/>
+    <SubTexture name="icons-misc-calendar-date-01" x="330" y="948" width="52" height="52" frameX="-22" frameY="-22" frameWidth="96" frameHeight="96"/>
+    <SubTexture name="icons-misc-calendar-date-02" x="432" y="912" width="52" height="52" frameX="-22" frameY="-22" frameWidth="96" frameHeight="96"/>
+    <SubTexture name="icons-misc-calendar-date-04" x="432" y="858" width="52" height="52" frameX="-22" frameY="-22" frameWidth="96" frameHeight="96"/>
+    <SubTexture name="icons-misc-headphone-01" x="430" y="1018" width="52" height="40" frameX="-22" frameY="-28" frameWidth="96" frameHeight="96"/>
+    <SubTexture name="icons-misc-media-play" x="706" y="1082" width="36" height="52" frameX="-30" frameY="-22" frameWidth="96" frameHeight="96"/>
+    <SubTexture name="icons-misc-shape-star2" x="430" y="966" width="52" height="50" frameX="-22" frameY="-23" frameWidth="96" frameHeight="96"/>
+    <SubTexture name="icons-misc-video" x="484" y="1036" width="52" height="36" frameX="-22" frameY="-30" frameWidth="96" frameHeight="96"/>
+    <SubTexture name="icons-misc-warning-message" x="330" y="1002" width="52" height="46" frameX="-22" frameY="-25" frameWidth="96" frameHeight="96"/>
+    <SubTexture name="icons-nav-apps" x="432" y="802" width="54" height="54"/>
+    <SubTexture name="icons-nav-arrow-down" x="432" y="746" width="54" height="54"/>
+    <SubTexture name="icons-nav-arrow-left" x="432" y="690" width="54" height="54"/>
+    <SubTexture name="icons-nav-arrow-right" x="958" y="384" width="54" height="54"/>
+    <SubTexture name="icons-nav-arrow-up" x="958" y="328" width="54" height="54"/>
+    <SubTexture name="icons-nav-dropdown" x="958" y="272" width="54" height="54"/>
+    <SubTexture name="icons-social-facebook-like" x="958" y="118" width="56" height="56" frameX="-4" frameY="-4" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="icons-social-facebook" x="958" y="60" width="56" height="56" frameX="-4" frameY="-4" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="icons-social-google-plus" x="958" y="176" width="56" height="54" frameX="-4" frameY="-5" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="icons-social-instagram" x="958" y="2" width="56" height="56" frameX="-4" frameY="-4" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="icons-social-twitter-bird" x="958" y="232" width="56" height="38" frameX="-4" frameY="-13" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="icons-tile-classes-1" x="342" y="520" width="168" height="168"/>
+    <SubTexture name="icons-tile-programs-1" x="172" y="520" width="168" height="168"/>
+    <SubTexture name="icons-tile-programs-2" x="2" y="520" width="168" height="168"/>
+    <SubTexture name="icons-tile-settings-1" x="852" y="440" width="168" height="168"/>
+    <SubTexture name="icons-tile-trainer-1" x="682" y="350" width="168" height="168"/>
+    <SubTexture name="icons-tile-trainer-2" x="512" y="350" width="168" height="168"/>
+    <SubTexture name="icons-tile-transactions-1" x="342" y="350" width="168" height="168"/>
+    <SubTexture name="icons-tile-transactions-2" x="172" y="350" width="168" height="168"/>
+    <SubTexture name="icons-tile-users-1" x="2" y="350" width="168" height="168"/>
+</TextureAtlas>
