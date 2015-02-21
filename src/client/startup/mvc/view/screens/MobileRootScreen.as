@@ -36,9 +36,7 @@ package client.startup.mvc.view.screens
 			this.fmgr.navigation.toggleDrawer( LayoutDirectionType.LEFT );
 		}
 
-		override protected function showDefaultScreen():void {
-
-			super.showDefaultScreen();
+		override public function showDefaultScreen():void {
 
 			this.fmgr.navigation.showScreen( Project_ScreenNameConstants.HELLO_WORLD );
 

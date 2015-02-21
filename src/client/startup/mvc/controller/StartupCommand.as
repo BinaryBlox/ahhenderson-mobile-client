@@ -6,7 +6,7 @@ package client.startup.mvc.controller
 	import avmplus.getQualifiedClassName;
 	
 	import client.project.mvc.model.ProjectModel;
-	import feathers.extension.ahhenderson.data.service.helpers.DataServiceFacadeHelper;
+	import feathers.extension.ahhenderson.data.service.helpers.DS_FacadeHelper;
 	import feathers.extension.ahhenderson.data.service.managers.DataServiceManager;
 	import feathers.extension.ahhenderson.data.service.mvc.actor.DataServiceCommand;
 	
@@ -44,7 +44,7 @@ package client.startup.mvc.controller
 		
 		protected function registerModels():void{
 			
-			DataServiceFacadeHelper.registerModel(new ProjectModel(), null);
+			DS_FacadeHelper.registerModel(new ProjectModel(), null);
 		}
 		  
 		override public function onRegister():void{

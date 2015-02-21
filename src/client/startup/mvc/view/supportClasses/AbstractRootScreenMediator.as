@@ -2,9 +2,7 @@
 package client.startup.mvc.view.supportClasses {
 
 	import ahhenderson.core.mvc.interfaces.IFacadeMessage;
-	
 	import avmplus.getQualifiedClassName;
-	
 	import client.constants.Client_NotificationConstants;
 	import feathers.extension.ahhenderson.data.service.mvc.actor.DataServiceMediator;
 
@@ -13,15 +11,14 @@ package client.startup.mvc.view.supportClasses {
 
 		public static const NAME:String = getQualifiedClassName( AbstractRootScreenMediator );
 
-		public function AbstractRootScreenMediator( name:String=null, component:* = null ) {
+		public function AbstractRootScreenMediator( name:String = null, component:* = null ) {
 
-			if(!name)
+			if ( !name )
 				name = NAME;
-			
+
 			super( name, component );
 		}
 
-	 
 		override public function handleFacadeMessage( message:IFacadeMessage ):void {
 
 			switch ( message.messageId ) {
@@ -44,8 +41,6 @@ package client.startup.mvc.view.supportClasses {
 				throw( error );
 			}
 		}
-		
-		
 
 		protected function startup():void {
 

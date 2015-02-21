@@ -20,7 +20,7 @@ package client.startup.mvc.view.supportClasses
 	import ahhenderson.core.mvc.patterns.facade.FacadeMessageFilter;
 	
 	import client.constants.Client_NotificationConstants;
-	import feathers.extension.ahhenderson.data.service.helpers.DataServiceFacadeHelper;
+	import feathers.extension.ahhenderson.data.service.helpers.DS_FacadeHelper;
 	import client.startup.mvc.controller.StartupCommand;
 	
 	import feathers.extension.ahhenderson.controls.core.FeathersRootScreen;
@@ -67,7 +67,7 @@ package client.startup.mvc.view.supportClasses
 			
 			
 			// Register using API helper since mediator is of type API_Mediator 
-			DataServiceFacadeHelper.registerCommand(new StartupCommand(Client_NotificationConstants.N_CMD_STARTUP));
+			DS_FacadeHelper.registerCommand(new StartupCommand(Client_NotificationConstants.N_CMD_STARTUP));
 		}
 		
 		override protected function registerRootMediator():void {
@@ -75,17 +75,6 @@ package client.startup.mvc.view.supportClasses
 			this.registerMediator(new AbstractRootScreenMediator(null, this), 
 				new FacadeMessageFilter([Client_NotificationConstants.NGRP_CLIENT_GLOBAL]));
 		}
-
-
-		override protected function showDefaultScreen():void {
-
-			 
-		} 
-		
-		override protected function registerScreenViews():void {
-			
-			
-		}
-		 
+ 
 	}
 }

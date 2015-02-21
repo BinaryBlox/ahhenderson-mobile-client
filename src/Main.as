@@ -2,7 +2,7 @@ package
 {
 	import flash.display3D.Context3DProfile;
 	
-	import feathers.extension.ahhenderson.data.service.helpers.DataServiceHelper;
+	import feathers.extension.ahhenderson.data.service.helpers.DS_Helper;
 	import client.startup.mvc.view.screens.MobileRootScreen;
 	
 	import feathers.extension.ahhenderson.controls.core.FeathersApplication;
@@ -41,7 +41,7 @@ package
 		override protected function defaultConfiguration():void{
 			
 			// Note, many endpoints can be registered and accessed via id.
-			DataServiceHelper.registerDefaultServiceConfiguration("Service-Stub-Id",
+			DS_Helper.registerDefaultServiceConfiguration("Service-Stub-Id",
 				"http://my-amf-service-stub");
 			
 			// Feathers/Starling specific
