@@ -35,6 +35,9 @@ package client.startup.mvc.controller
 			 
 			// Initialize ServiceAPI manager
 			DataServiceManager.instance.initialize(); 
+			 
+			// Show default screen
+			fmgr.navigation.showDefaultScreen();
 		}
 		
 		protected function registerCommands():void{

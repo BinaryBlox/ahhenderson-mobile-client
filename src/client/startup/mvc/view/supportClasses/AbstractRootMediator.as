@@ -7,11 +7,11 @@ package client.startup.mvc.view.supportClasses {
 	import feathers.extension.ahhenderson.data.service.mvc.actor.DataServiceMediator;
 
 
-	public class AbstractRootScreenMediator extends DataServiceMediator {
+	public class AbstractRootMediator extends DataServiceMediator {
 
-		public static const NAME:String = getQualifiedClassName( AbstractRootScreenMediator );
+		public static const NAME:String = getQualifiedClassName( AbstractRootMediator );
 
-		public function AbstractRootScreenMediator( name:String = null, component:* = null ) {
+		public function AbstractRootMediator( name:String = null, component:* = null ) {
 
 			if ( !name )
 				name = NAME;
@@ -49,9 +49,9 @@ package client.startup.mvc.view.supportClasses {
 
 		}
 
-		private function get view():AbstractRootScreen {
+		private function get view():AbstractRoot {
 
-			return component as AbstractRootScreen;
+			return component as AbstractRoot;
 		}
 	}
 }

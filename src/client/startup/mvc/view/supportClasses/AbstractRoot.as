@@ -23,11 +23,11 @@ package client.startup.mvc.view.supportClasses
 	import feathers.extension.ahhenderson.data.service.helpers.DS_FacadeHelper;
 	import client.startup.mvc.controller.StartupCommand;
 	
-	import feathers.extension.ahhenderson.controls.core.FeathersRootScreen;
+	import feathers.extension.ahhenderson.controls.core.FeathersRootContainer;
  
 
-	public class AbstractRootScreen extends FeathersRootScreen {
-		public function AbstractRootScreen() {
+	public class AbstractRoot extends FeathersRootContainer {
+		public function AbstractRoot() {
 
 			super(); 
 
@@ -63,7 +63,7 @@ package client.startup.mvc.view.supportClasses
 			
 		}
  
-		override protected function registerStartupCommand():void{
+		override protected function registerRootCommand():void{
 			
 			
 			// Register using API helper since mediator is of type API_Mediator 
@@ -72,7 +72,7 @@ package client.startup.mvc.view.supportClasses
 		
 		override protected function registerRootMediator():void {
 			
-			this.registerMediator(new AbstractRootScreenMediator(null, this), 
+			this.registerMediator(new AbstractRootMediator(null, this), 
 				new FacadeMessageFilter([Client_NotificationConstants.NGRP_CLIENT_GLOBAL]));
 		}
  

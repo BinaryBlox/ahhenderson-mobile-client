@@ -4,14 +4,14 @@ package client.startup.mvc.view.mediators
 	
 	import avmplus.getQualifiedClassName;
 	
-	import client.startup.mvc.view.screens.MobileRootScreen;
-	import client.startup.mvc.view.supportClasses.AbstractRootScreenMediator;
+	import client.startup.mvc.view.screens.MobileRoot;
+	import client.startup.mvc.view.supportClasses.AbstractRootMediator;
 	
-	public class MobileRootScreenMediator extends AbstractRootScreenMediator
+	public class MobileRootMediator extends AbstractRootMediator
 	{
-		public static const NAME:String = getQualifiedClassName( MobileRootScreenMediator );
+		public static const NAME:String = getQualifiedClassName( MobileRootMediator );
 		
-		public function MobileRootScreenMediator(component:MobileRootScreen=null)
+		public function MobileRootMediator(component:MobileRoot=null)
 		{
 			super(NAME, component);
 		}
@@ -40,9 +40,9 @@ package client.startup.mvc.view.mediators
 		}
 		
 		
-		private function get view():MobileRootScreen {
+		private function get view():MobileRoot {
 			
-			return component as MobileRootScreen;
+			return component as MobileRoot;
 		}
 	}
 }
